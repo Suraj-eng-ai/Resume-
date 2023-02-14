@@ -79,6 +79,13 @@ table,tr,th,td{
     
        width: auto;
     }
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 5px solid black;
+ 
+}
     .img>img{
         border-radius: 50%;
         /* padding: 10px; */
