@@ -83,7 +83,7 @@ table,tr,th,td{
 .main{
     display: flex;
     justify-content: space-between;
-    border-bottom: 5px solid black;
+/*     border-bottom: 5px solid black; */
  
 }
     .img>img{
